@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My first post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 2,
+      "title": "My second post",
+      "datetime": "July 02, 2021 12:17:45 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
+    },
+    {
+      "id": 3,
+      "title": "My third post",
+      "datetime": "June 03, 2022 11:07:30 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Posting as 3rd post."
+    },
+    {
+      "id": 4,
+      "title": "My fourth post",
+      "datetime": "June 03, 2022 11:06:58 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Posting as 4th post."
+    }
+  ]
+}

@@ -1,7 +1,10 @@
+import { isToday } from "date-fns";
+
 const Footer = () => {
+    const today = new Date();
     return(
-        <footer>
-            <h3>Footer</h3>
+        <footer className="Footer">
+            <p>Copyright &copy; {today.getFullYear()}</p>
         </footer>
     )
 };
